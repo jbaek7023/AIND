@@ -1,23 +1,26 @@
 # Udacity - Artificial Intelligence Nanodegree 
 
-![AIND](posterw.png)
+![AIND](aind.png)
+
+Created by ![Alt text](0.svg)![Alt text](1.svg)![Alt text](2.svg)![Alt text](3.svg)![Alt text](4.svg)
 
 # Foundations of AI - Term 1
 ## Projects and Labs
 
-1. [Solve a Sudoku with AI](1_foundations/1_sudoku/)
-2. [Build a Game-Playing Agent](1_foundations/2_isolation/)
-3. [Lab: Teaching Pac-Man to Search](1_foundations/3_pacman/)
-4. [Lab: Simulated Annealing](1_foundations/4_simulated_annealing/)
-5. [Lab: Constraint Satisfaction N-Queens](1_foundations/5_nqueens/)
-6. [Implement a Planning Search](1_foundations/6_planning/)
-7. [Build a Sign Language Recognizer](1_foundations/7_recognizer/)
+1. [Solve a Sudoku with AI](https://github.com/jbaek7023/SudokuGameSolver)
+2. [Build a Game-Playing Agent](https://github.com/jbaek7023/AIND-Isolation)
+3. Lab: Teaching Pac-Man to Search
+4. Lab: Simulated Annealing
+5. Lab: Constraint Satisfaction N-Queens
+6. [Implement a Planning Search](https://github.com/jbaek7023/AIND-CargoProject)
+7. [Build a Sign Language Recognizer](https://github.com/jbaek7023/AIND-Recognizer)
 
 # Deep Learning and Applications - Term 2
 ## Projects and Labs
-1. MNIST
-2. IMDB
-3. CIFAR-10
-4. [CNN Dog Breed Classifier](2_deep_learning/4_dog_breed_classifier/)
-5. [RNN Apple Stock & Sherlock Holmes](2_deep_learning/5_rnn_stock_sherlock/)
-6. [Lab: Affectiva SDK - Mimic Me!](2_deep_learning/6_cv_mimic_me/)
+1. Lab: MNIST
+2. Lab: IMDB
+3. Lab: CIFAR-10
+4. [CNN Dog Breed Classifier](https://github.com/jbaek7023/AIND-Dog-Recognizer)
+5. [RNN Apple Stock & Sherlock Holmes](https://github.com/jbaek7023/AIND-RNNs)
+6. Lab: Affectiva SDK - Mimic Me!
+7. [Facial Keypoint Detection](https://github.com/jbaek7023/Facial-Keypoint-Detection)
