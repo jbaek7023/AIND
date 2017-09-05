@@ -1,5 +1,8 @@
 # Udacity - Artificial Intelligence Nanodegree 
-Created by ![Alt text](0.svg)  ![Alt text](1.svg)  ![Alt text](2.svg)  ![Alt text](3.svg)  ![Alt text](4.svg)
+
+![AIND](aind.png)
+
+Created by ![Alt text](0.svg)  ![Alt text](1.svg)  ![Alt text](2.svg)  ![Alt text](3.svg)![Alt text](4.svg)
 
 # Foundations of AI - Term 1
 ## Projects and Labs
