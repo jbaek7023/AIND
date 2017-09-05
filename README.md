@@ -2,7 +2,7 @@
 
 ![AIND](aind.png)
 
-Created by ![Alt text](0.svg)  ![Alt text](1.svg)  ![Alt text](2.svg)  ![Alt text](3.svg)![Alt text](4.svg)
+Created by &nbsp;![Alt text](1.svg)&nbsp;![Alt text](2.svg)&nbsp;![Alt text](3.svg)&nbsp;![Alt text](4.svg)
 
 # Foundations of AI - Term 1
 ## Projects and Labs
