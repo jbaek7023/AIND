@@ -1,17 +1,18 @@
-# Udacity - ![Artificial Intelligence Nanodegree](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889)
+# Udacity - [Artificial Intelligence Nanodegree](https://www.udacity.com/course/artificial-intelligence-nanodegree--nd889)
 
 AI nanodegree is to master skills and tools used by the most innovative AI teams across the globe as you delve into specializations, and gain experience solving real-world challenges. 
 
-Topics include: 
+
+**Topics include:** 
 - Search and Optimization 
 - Logic, Reasoning, and Planning
 - Building Models of Probability
 - Natural Language Processing
 - Computer Vision
+- And much more!
 
-Co-Created by 
-
-![Alt text](1.svg)&nbsp;&nbsp;&nbsp;![Alt text](2.svg)&nbsp;&nbsp;&nbsp;![Alt text](3.svg)&nbsp;&nbsp;&nbsp;![Alt text](4.svg)
+**Co-Created by**
+![Alt text](1.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](2.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](3.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](4.svg)
 
 # Foundations of AI - Term 1
 ## Projects and Labs
