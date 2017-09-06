@@ -15,6 +15,8 @@ AI nanodegree is to master skills and tools used by the most innovative AI teams
 
 ![Alt text](1.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](2.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](3.svg)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Alt text](4.svg)
 
+---
+
 # Foundations of AI - Term 1
 ## Projects and Labs
 
@@ -39,47 +41,46 @@ AI nanodegree is to master skills and tools used by the most innovative AI teams
 # Course Overview 
 ##### Term 1
 
-– Welcome to the AI Nanodegree
-– Careers: Orientation
-– Setting up with Anaconda
-– Solving a Sudoku with AI
-– Introduction to AI
-– Introduction to Game Playing
-– Advanced Game Playing
-– Search
-– Simulated Annealing
-– Constraint Satisfaction
-– Logic and Reasoning
-– Planning
-– Probability
-– Bayes Nets
-– Inference in Bayes Nets
-– Hidden Markov Models
+- Welcome to the AI Nanodegree
+- Setting up with Anaconda
+- Solving a Sudoku with AI
+- Introduction to AI
+- Introduction to Game Playing
+- Advanced Game Playing
+- Search
+- Simulated Annealing
+- Constraint Satisfaction
+- Logic and Reasoning
+- Planning
+- Probability
+- Bayes Nets
+- Inference in Bayes Nets
+- Hidden Markov Models
 
 ##### Term 2
 
-– Deep Neural Networks
-– Convolutional Neural Networks
-– CNN Project: Dog Breed Classifier
-– Intro to TensorFlow
-– Autoencoders
-– Recurrent Neural Networks
-– Long Short-Term Memory Networks (LSTM)
-– Implementing RNNs and LSTMs
-– Hyperparameters
-– Sentiment Prediction with RNN
-– RNN Project: Time Series Prediction and Text Generation
-– Generative Adversarial Networks
-– Deep Convolutional GANs
-– Semisupervised Learning
+- Deep Neural Networks
+- Convolutional Neural Networks
+- CNN Project: Dog Breed Classifier
+- Intro to TensorFlow
+- Autoencoders
+- Recurrent Neural Networks
+- Long Short-Term Memory Networks (LSTM)
+- Implementing RNNs and LSTMs
+- Hyperparameters
+- Sentiment Prediction with RNN
+- RNN Project: Time Series Prediction and Text Generation
+- Generative Adversarial Networks
+- Deep Convolutional GANs
+- Semisupervised Learning
 
 ##### Concentration
 
-– Intro to Computer Vision
-– Mimic Me!
-– Image Representation and Analysis
-– Image Segmentation
-– Features and Object Recognition
+- Intro to Computer Vision
+- Mimic Me!
+- Image Representation and Analysis
+- Image Segmentation
+- Features and Object Recognition
 
 ![AIND](aind.png)
 
